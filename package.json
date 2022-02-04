@@ -13,7 +13,7 @@
   "license": "MIT",
   "peerDependencies": {
     "@material-ui/core": "^4.0.1",
-    "react": "^16.8"
+    "react": "^17.0.2"
   },
   "dependencies": {
     "classnames": "^2.2.5",
